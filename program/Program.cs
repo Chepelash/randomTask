@@ -14,6 +14,17 @@ bool grabStrings(ref string[] stringArray){
     return true;
 }
 
+void printResults(in string[] inputArray, in string[] outputArray){
+    Console.Write("[");
+    for(int i = 0; i < inputArray.Length; i++){
+        Console.Write($"{inputArray[i]} ");
+    }
+    Console.Write("] -> [");
+    for(int i = 0; i < outputArray.Length; i++){
+        Console.Write($"{outputArray[i]} ");
+    }
+    Console.WriteLine("]");
+}
 
 /// <summary>
 /// main task
@@ -39,10 +50,7 @@ void homework(){
         }
     }
 
-    for(int i = 0; i < resultArray.Length; i++){
-        Console.Write($"{resultArray[i]} ");
-    }
-    Console.WriteLine("");
+    printResults(in stringArray, in resultArray);
 }
 
 void Main(){
