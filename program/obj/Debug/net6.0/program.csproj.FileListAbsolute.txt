@@ -1,0 +1,15 @@
+/home/virtboy/Documents/GitHub/randomTask/program/bin/Debug/net6.0/program
+/home/virtboy/Documents/GitHub/randomTask/program/bin/Debug/net6.0/program.deps.json
+/home/virtboy/Documents/GitHub/randomTask/program/bin/Debug/net6.0/program.runtimeconfig.json
+/home/virtboy/Documents/GitHub/randomTask/program/bin/Debug/net6.0/program.dll
+/home/virtboy/Documents/GitHub/randomTask/program/bin/Debug/net6.0/program.pdb
+/home/virtboy/Documents/GitHub/randomTask/program/obj/Debug/net6.0/program.csproj.AssemblyReference.cache
+/home/virtboy/Documents/GitHub/randomTask/program/obj/Debug/net6.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/home/virtboy/Documents/GitHub/randomTask/program/obj/Debug/net6.0/program.AssemblyInfoInputs.cache
+/home/virtboy/Documents/GitHub/randomTask/program/obj/Debug/net6.0/program.AssemblyInfo.cs
+/home/virtboy/Documents/GitHub/randomTask/program/obj/Debug/net6.0/program.csproj.CoreCompileInputs.cache
+/home/virtboy/Documents/GitHub/randomTask/program/obj/Debug/net6.0/program.dll
+/home/virtboy/Documents/GitHub/randomTask/program/obj/Debug/net6.0/refint/program.dll
+/home/virtboy/Documents/GitHub/randomTask/program/obj/Debug/net6.0/program.pdb
+/home/virtboy/Documents/GitHub/randomTask/program/obj/Debug/net6.0/program.genruntimeconfig.cache
+/home/virtboy/Documents/GitHub/randomTask/program/obj/Debug/net6.0/ref/program.dll
